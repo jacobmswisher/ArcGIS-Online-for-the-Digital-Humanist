@@ -4,7 +4,7 @@
 
 For the remainder of the workshop, you are going to learn how to use four different tools in ArcGIS Online (filters, overlay layers, extract data, and table joins) to examine historical changes in the population of Indiana between 1940 and 1950.
 
-Before getting started, upload the following feature classes and tables into ArcGIS Online, available for download [here]():
+Before getting started, upload the following feature classes and tables into ArcGIS Online, available for download [here](/Data):
 
 1. State Boundaries.shp
 2. 1940_US_Counties.shp
