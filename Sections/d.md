@@ -18,7 +18,7 @@ In this exercize, you will create a feature layer representing a six significant
 
 Begin by opening WWII_Pacific_Sites.csv in a spreadsheet editor of your choice (ex. Google Sheets or Microsoft Excel). 
 
-[If needed, head here to download a data folder containing copy of WWII_Pacific_Sites.csv](https://github.com/jacobmswisher/ArcGIS-Online-for-the-Digital-Humanist/blob/main/Data/WWII_Pacific_Sites.csv)
+[If needed, head here to download a copy of WWII_Pacific_Sites.csv](https://github.com/jacobmswisher/ArcGIS-Online-for-the-Digital-Humanist/blob/main/Data/WWII_Pacific_Sites.csv)
 
 Then, take a moment to examine the data structure of WWII_Pacific_Sites.csv. Note the presence of the latitude and longitude fields at the end of the table.
 
