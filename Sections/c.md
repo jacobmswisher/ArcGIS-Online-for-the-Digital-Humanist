@@ -202,7 +202,7 @@ To upload RR1861 to ArcGIS Online, create a compressed (zipped) version the file
   <img src="https://github.com/jacobmswisher/ArcGIS-Online-for-the-Digital-Humanist/blob/main/Sections/Images/Figure%2021.jpg">
 </p>
 
-**Note: [If needed, you can find a compressed copy of RR1861 in the data folder for this workshop.](https://github.com/jacobmswisher/ArcGIS-Online-for-the-Digital-Humanist/blob/main/Data/RR1861.zip).**
+**Note: [If needed, click here to download compressed copy of RR1861.](https://github.com/jacobmswisher/ArcGIS-Online-for-the-Digital-Humanist/blob/main/Data/RR1861.zip).**
 
 ### Step 2: Upload Your Data
 
