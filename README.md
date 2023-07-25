@@ -20,7 +20,7 @@ After completing this workshop, you will be able to:
 
 ## Workshop Data Download
 
-[All data needed to complete this workshop is available in the data folder of this repository](https://github.com/jacobmswisher/ArcGIS-Online-for-the-Digital-Humanist/tree/main/Data)
+[All data needed to complete this workshop is available in the data folder of this repository.](https://github.com/jacobmswisher/ArcGIS-Online-for-the-Digital-Humanist/tree/main/Data)
 
 ## Table of Contents
 
