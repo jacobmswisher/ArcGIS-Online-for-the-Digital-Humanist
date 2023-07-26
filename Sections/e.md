@@ -98,7 +98,7 @@ Click the export button to export a pdf of your map with the default options and
 
 > ### Exercise 6: Explore the Styles Tool
 > 
-> **Task: On your own, create at least a new data visualization using RR1861 or another layer of your choice. Then, export your data visualizations using the print tool.**
+> **Task: Create a new data visualization using RR1861 or another layer of your choice. Then, export your data visualizations using the print tool.**
 
 <p>&nbsp;</p>
 
