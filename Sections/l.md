@@ -6,7 +6,7 @@ This final workshop exercise is designed to put the skills you developed in this
 
 > ### Exercise 11: Analyze Regional Population Growth Rates during the World War II Era
 >
-> You are a historian working on a project about urban history and the World War II Era in the United States. You are particularly curious about rates of population growth across the United States. Does the U.S. population grow equally across major metropolitan areas between 1940 and 1950? Do some regions experience execeptionally high or low rates of population growth? After thinking through the skills you have acquired at Notre Dame's 2023 Digital Humanities Research Institute, you decide to approach these research questions by using GIS.
+> You are a historian working on a project about urban history and the World War II Era in the United States. You are particularly curious about rates of population growth across the United States. Does the U.S. population grow equally across major metropolitan areas between 1940 and 1950? Do some regions experience exceptionally high or low rates of population growth? After thinking through the skills you have acquired at Notre Dame's 2023 Digital Humanities Research Institute, you decide to approach these research questions by using GIS.
 > 
 > **Task: Create a map that visualizes regional population growth rates in the World War II Era United States.**
 >
