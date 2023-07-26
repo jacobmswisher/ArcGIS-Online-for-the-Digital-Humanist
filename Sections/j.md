@@ -111,7 +111,7 @@ After the analysis runs, open up the attribute table for the ouput feature class
 
 > ### Exercise 9: Table Joins
 > 
-> **Using the join features tool, join the information in 1950 US Population to the attribute table of 1950 Indiana Counties**
+> **Task: Using the join features tool, join the information in 1950 US Population to the attribute table of 1950 Indiana Counties**
 
 <p>&nbsp;</p>
 
