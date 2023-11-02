@@ -6,7 +6,7 @@ In some cases, you may need to create spatial data for a research project. In Ar
 
 ArcGIS Online provides users with two methods to create their own feature layers:
 1. Creating a feature layer with point geometry from a .csv (comma-separated values file)
-2. Creating a feature layer point, line, or polygon geometry in ArcGIS Online
+2. Creating a feature layer with point, line, or polygon geometry in ArcGIS Online
 
 ## Method 1: Creating a Feature Layer from a .csv File
 
